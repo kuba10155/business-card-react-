@@ -3,7 +3,7 @@ import React from "react"
 export default function Header() {
   return (
     <header>
-      <img class="header--profile-img" src="./src/images/my-image.jpg" />
+      <img class="header--profile-img" src="./images/my-image.jpg" />
       <h1 className="header--name">Jakub Zborowski</h1>
       <h3 className="header--job">Frontend Developer</h3>
       <h6 className="header--website"><a href="https://portfolio-24.netlify.app" target="_blank">jakubzborowski.website</a></h6>
